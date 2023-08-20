@@ -1,11 +1,13 @@
-# Sample Snack app
+<h1 align="center"> Mobile Fit </h1>
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+<p align="center"> Um pequeno projeto construido nas aulas de mobile, utilizando React Native, que traz um app de atividades físicas.  </p>
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+<h2 align="center"> Principais pontos praticados </h2>
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+- Criação de um app utilizando diversos conceitos aprendidos em sala.
+- Utilização do styles do React Native, manipulando estilos e exportando alguns para outras páginas.
+- Mergir as diversas páginas da aplicação.
+- Criar um registro local, com validação de email, tamanhos adequados de username e senha.
+- Validação de registro, mantendo o usuário conectado ao entrar para os treinos.
+- Treinos dinâmicos, adicionando as respectivas calorias e tempo gastos ao total, quando concluídos.
+- Utilização de alertas.
