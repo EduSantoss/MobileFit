@@ -1,6 +1,6 @@
 <h1 align="center"> Mobile Fit </h1>
 
-<p align="center"> Um pequeno projeto construido nas aulas de mobile, utilizando React Native, que traz um app de atividades físicas.  </p>
+<p align="center"> Um projeto construido nas aulas de mobile, utilizando React Native, que traz um app de registro de atividades físicas.  </p>
 
 <h2 align="center"> Principais pontos praticados </h2>
 
